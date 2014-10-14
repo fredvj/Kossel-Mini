@@ -5,7 +5,7 @@ A couple of improvements for the T3P3 Kossel Mini Kit
 
 Calibration:
 
-PDF that can be used to calibrate the Nozzle / Z-Probe offset. Make sure to turn off scaling when printing.
+PDF that can be used to calibrate the Nozzle / Z-Probe offset (created / exported with InkScape). Make sure to turn off scaling when printing.
 
 Extruder:
 
