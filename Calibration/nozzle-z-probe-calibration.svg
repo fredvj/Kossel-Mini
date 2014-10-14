@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="nozzle-z-probe-adjustment.pdf">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.73417969"
+     inkscape:cx="340.92352"
+     inkscape:cy="804.75276"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:window-width="1280"
+     inkscape:window-height="737"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.5390623e-6)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70866142;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 601.51136,296.71698 142.58312,755.64521"
+       id="path3817-4"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985"
+       sodipodi:cx="416.11066"
+       sodipodi:cy="565.42419"
+       sodipodi:rx="297.61105"
+       sodipodi:ry="282.62836"
+       d="m 713.72171,565.42419 c 0,156.09134 -133.24501,282.62836 -297.61105,282.62836 -164.36605,0 -297.61106,-126.53702 -297.61106,-282.62836 0,-156.09133 133.24501,-282.62835 297.61106,-282.62835 164.36604,0 297.61105,126.53702 297.61105,282.62835 z"
+       transform="matrix(0.98037193,0,0,1.0323434,-35.895966,-57.530844)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-1"
+       sodipodi:cx="416.11066"
+       sodipodi:cy="565.42419"
+       sodipodi:rx="297.61105"
+       sodipodi:ry="282.62836"
+       d="m 713.72171,565.42419 c 0,156.09134 -133.24501,282.62836 -297.61105,282.62836 -164.36605,0 -297.61106,-126.53702 -297.61106,-282.62836 0,-156.09133 133.24501,-282.62835 297.61106,-282.62835 164.36604,0 297.61105,126.53702 297.61105,282.62835 z"
+       transform="matrix(1.0100801,0,0,1.0636265,-48.257853,-75.219066)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.10000002;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2985-1-7"
+       sodipodi:cx="416.11066"
+       sodipodi:cy="565.42419"
+       sodipodi:rx="297.61105"
+       sodipodi:ry="282.62836"
+       d="m 713.72171,565.42419 c 0,156.09134 -133.24501,282.62836 -297.61105,282.62836 -164.36605,0 -297.61106,-126.53702 -297.61106,-282.62836 0,-156.09133 133.24501,-282.62835 297.61106,-282.62835 164.36604,0 297.61105,126.53702 297.61105,282.62835 z"
+       transform="matrix(1.0397884,0,0,1.0949097,-60.619793,-92.907344)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.66499132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 44.611114,526.18109 654.872256,0"
+       id="path3791"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3793"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"
+       transform="translate(0,2.5390623e-6)"><flowRegion
+         id="flowRegion3795"><rect
+           id="rect3797"
+           width="100.79276"
+           height="78.999733"
+           x="630.6358"
+           y="778.58722"
+           style="font-size:12px;-inkscape-font-specification:Sans;font-family:Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%" /></flowRegion><flowPara
+         id="flowPara3805">165 mm</flowPara><flowPara
+         id="flowPara3807">170 mm</flowPara><flowPara
+         id="flowPara3809">175 mm</flowPara><flowPara
+         id="flowPara3811"></flowPara><flowPara
+         id="flowPara3813"></flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.68260759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 372.08684,198.7665 -0.0792,654.82918"
+       id="path3815"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70866142;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 142.58313,296.71698 601.51136,755.64521"
+       id="path3817"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3837"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="translate(138.20154,16.517162)"><flowRegion
+         id="flowRegion3839"><rect
+           id="rect3841"
+           width="359.58502"
+           height="151.18915"
+           x="54.482574"
+           y="24.003576"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
+         id="flowPara3843"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans">Mini Kossel</flowPara><flowPara
+         id="flowPara3845"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans">Nozzle / Z-Probe</flowPara><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara3847">Offset Calibration</flowPara></flowRoot>  </g>
+</svg>
